@@ -38,10 +38,10 @@
 ### 📫 Connect with Me
 
 - LinkedIn: [https://www.linkedin.com/in/ayush-rathee-012849316/](https://www.linkedin.com/in/ayush-rathee-012849316/)
-- Portfolio: [ayushrathee.dev](https://ayushrathee.dev) <!-- Replace with actual if available -->
 - Email: [ayushrathee01@gmail.com](mailto:ayushrathee01@gmail.com)
 
 ---
 
 _“Code. Collaborate. Conquer.”_
+
 
