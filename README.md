@@ -37,26 +37,11 @@
 
 ### 📫 Connect with Me
 
-- LinkedIn: [linkedin.com/in/ayushrathee](https://www.linkedin.com/in/ayushrathee)
+- LinkedIn: [https://www.linkedin.com/in/ayush-rathee-012849316/](https://www.linkedin.com/in/ayush-rathee-012849316/)
 - Portfolio: [ayushrathee.dev](https://ayushrathee.dev) <!-- Replace with actual if available -->
-- Email: [ayush@example.com](mailto:ayush@example.com)
+- Email: [ayushrathee01@gmail.com](mailto:ayushrathee01@gmail.com)
 
 ---
 
 _“Code. Collaborate. Conquer.”_
 
-<!--
-**Ratheesahab/Ratheesahab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
