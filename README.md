@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ayush Rathee
 
-🎓 B.Tech CSE | 💻 Full Stack Developer | 🚀 Associate Technical Head @ Biopay
+🎓 B.Tech CSE | 💻 Full Stack Developer | 🚀 Former Associate Technical Head @ Biopay
 
 ---
 
