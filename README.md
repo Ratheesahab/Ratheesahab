@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently building scalable web & mobile apps at [Biopay](https://github.com/biopay-official)
+- 🔭 Currently building scalable web & mobile apps.
 - 🌱 Exploring **AI/ML**, **Cloud Services**, and **DevOps practices**
 - 🛠️ Skilled in:  
   `React` · `Next.js` · `Node.js` · `MongoDB` · `Express` · `Firebase` · `Tailwind CSS` · `GitHub Actions`
